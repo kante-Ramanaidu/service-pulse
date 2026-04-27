@@ -34,7 +34,7 @@ Developers and teams managing multiple services, APIs, or URLs often struggle to
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/kante-Ramanaidu/servicepulse.git
+git clone https://github.com/kante-Ramanaidu/service-pulse
 cd servicepulse
 ```
 
