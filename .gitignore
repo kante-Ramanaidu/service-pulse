@@ -1,1 +1,19 @@
+# Environment
+.env
+*.env
+
+# Java/Maven
+target/
+*.jar
+*.class
+*.iml
+.idea/
+
+# Frontend
 node_modules/
+monitor-frontend/node_modules/
+monitor-frontend/dist/
+monitor-frontend/.env
+
+# Logs
+*.log
